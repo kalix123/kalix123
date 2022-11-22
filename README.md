@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Kalix Zee 😁</h1>
-<h3 align="center">Currently studying Computer Networking</h3>
+<h3 align="center">Studying Computer Networking in College</h3>
 
 - 🔭 I’m currently working on something no one has ever done before
 - 📄 My work experiences **https://www.linkedin.com/in/kalixzee/**
